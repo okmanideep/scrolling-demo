@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Android Garage</string>
+    <string name="title_activity_test">TestActivity</string>
+
+    <string name="title_scrolling_demo">Scrolling Demo</string>
+    <string name="cont_desc_dp">Display picture</string>
+    <string name="section">Section</string>
+    <string name="consider_angle">Consider angle</string>
+    <string name="ignore_child_requests">Ignore child requests</string>
+    <string name="settings">Settings</string>
+</resources>
